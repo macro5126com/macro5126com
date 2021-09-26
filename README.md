@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @macro5126com
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python by myself
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a project to AI
 - 📫 How to reach me ...
 
 <!---
